@@ -78,6 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+
+#data
+/data
+/Employment Baseline Methodology.docx
+
 # IPython
 profile_default/
 ipython_config.py
